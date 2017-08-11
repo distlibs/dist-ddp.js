@@ -1,0 +1,16 @@
+{
+  "name": "dist-ddp.js",
+  "version": "2.2.0",
+  "description": "DDP Javascript client for browsers",
+  "license": "MIT",
+  "keywords": [
+    "ddp",
+    "meteor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/distlibs/dist-ddp.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
